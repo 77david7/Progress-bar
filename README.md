@@ -1,2 +1,1 @@
 # Progress-bar
-Progress bar
